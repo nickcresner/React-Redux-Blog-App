@@ -1,0 +1,26 @@
+body {
+  margin: 20px;
+  padding: 0;
+  font-family: 'Cabin', sans-serif;
+}
+
+
+h2 {
+  position: relative;
+  margin: auto;
+  color: dodgerblue;
+  text-align: center;
+}
+
+.new-post-form {
+  margin: 40px;
+}
+
+label {
+  font-size: 22px;
+}
+
+ul {
+  font-size: 18px;
+}
+
